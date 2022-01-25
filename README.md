@@ -1,4 +1,16 @@
-# Next.js + Tailwind CSS Example
+# Spotify Clone
+
+Thus application is a clone of spotify application that was built during the Youtube live by Sonny Sangha. It has functionality to fetch the playlist 
+and play songs from it.
+
+## To run locally
+
+- Clone the github repository.
+- Run ``` npm install ```
+- add a .env.local and add all secrets in it.
+- Run the project using ``` npm run dev ```
+
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
